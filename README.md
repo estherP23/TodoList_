@@ -21,13 +21,19 @@
 + 알림 기능: 사용자는 정각, 5분 전, 10분 전에 각각 알림을 설정할 수 있어 원하는 시간대에 해당 할 일의 알림이 울리도록 할 수 있습니다.
 ### 2.2	결과물
 + 메인화면
-###### +![Simulator Screenshot - iPhone 15 Pro - 2024-06-17 at 16 11 19](https://github.com/estherP23/TodoList_/assets/123536492/b70df39e-f543-4991-86f7-35d03917ca5d)
-###### 
-
+###### <img src="https://github.com/estherP23/TodoList_/assets/123536492/04072244-4f9f-4a5c-9818-51fcfd331232" width="280" height="600" /> <img src="https://github.com/estherP23/TodoList_/assets/123536492/81517bd1-0663-47e3-8bb8-05851ed8491a" width="280" height="600" />
 
 + 할 일 추가 화면
+###### <img src="https://github.com/estherP23/TodoList_/assets/123536492/7b3d8064-d4be-4fd5-94c9-552d6e5ff10b" width="280" height="600" />
+
++ 달력
+##### <img src="https://github.com/estherP23/TodoList_/assets/123536492/b22d64a7-5f00-4d3a-a67f-60c08712ea62" width="280" height="600" />
+
 + 날씨 확인 화면
+###### <img src="https://github.com/estherP23/TodoList_/assets/123536492/9391bc73-3853-4c91-984d-de8f5f79ead8" width="280" height="600" />
+
 + 알림 화면
+###### <img src="https://github.com/estherP23/TodoList_/assets/123536492/56ae8288-043e-4e48-b60a-1dfe0c974566" width="280" height="600" />
 
 
 
