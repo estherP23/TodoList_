@@ -1,5 +1,5 @@
 # Todo List
-+ 발표영상 링크
++ 발표영상 링크 : https://www.youtube.com/watch?v=VrB4ge2O7Go 
 ## 1.	프로젝트 수행 목적
 ### 1.1	프로젝트 정의
 + 이 프로젝트는 사용자가 오늘 할 일이나 앞으로 할 일들을 기록하고 관리할 수 있는 Todo List 애플리케이션입니다.
